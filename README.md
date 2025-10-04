@@ -1,8 +1,7 @@
-# KuliCyberProject
-This is the initial project of my kullicyberteam 
+This is a complete package tool with address finder, osint and ip address finder. 
 
-# Pastikan pip sudah ada
-pkg install python -y
-
-# Instal modul pyfiglet dan requests
-pip install pyfiglet requests
+instalation
+# pkg update && pkg upgrade
+# pkg install python -y
+# pip install pyfiglet requests
+# pip install sherlock
