@@ -4,7 +4,6 @@ import time
 import requests
 import json
 
-# --- 1. Definisi Warna ANSI untuk Tampilan CLI ---
 class Colors:
     """Kelas untuk mendefinisikan kode warna ANSI."""
     RESET = '\033[0m'
